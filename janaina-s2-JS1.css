@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    background-color: pink;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  p1{
+    color: purple;
+    text-decoration: underline;
+    font-family: cursive;
+    font-size: larger;
+  }
